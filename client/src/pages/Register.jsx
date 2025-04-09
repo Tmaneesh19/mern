@@ -1,4 +1,4 @@
 export const Register = () => {
-    ds
+    d
   return <h1>Register Page</h1>;
 };
